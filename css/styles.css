@@ -11526,3 +11526,15 @@ html {
 #wp-link:hover{
   color: #9e6f17;
 }
+
+.btn-inscreva{
+  border-radius: 0.5rem !important;
+  padding: 1rem;
+  -webkit-appearance: button;
+  background-color: #13132e;
+  color: #fff;
+}
+
+.btn-inscreva:hover{
+  color: #f1db6c;
+}
